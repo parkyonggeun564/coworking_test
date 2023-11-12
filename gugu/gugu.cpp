@@ -2,6 +2,7 @@
 
 int main()
 {
+    std::cout << "박용근2의 수정!!" << "\n";
     std::cout << "GUGUDAN" << "\n";
     while (1) {
         int dan_start, dan_end, step_start, step_end;
